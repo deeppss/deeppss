@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello! I'm Deepu;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello!+I'm+Deepu)](https://git.io/typing-svg)
 
 <!--
 **deeppss/deeppss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
