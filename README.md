@@ -39,7 +39,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/deeppss/github-readme-activity-graph"><img alt="Deepu John Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=deeppss&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/deeppss/github-readme-activity-graph"><img alt="Deepu John Activity Graph" src="https://github-readme-stats.vercel.app/api?username=deeppss&show_icons=true&locale=en" alt="deeppss" /></a>
 
 <br/>
 <br/>
