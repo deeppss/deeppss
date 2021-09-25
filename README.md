@@ -16,7 +16,7 @@
     <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> </a> 
     <a href="https://www.tableau.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tableau-software.png"/> </a> 
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.qt.io/download" target="_blank"> <img src="https://img.icons8.com/ios/50/000000/qt.png"/> </a> 
+    <a style="padding-right:8px;" href="https://www.qt.io/download" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/qt.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.arduino.cc/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/arduino.png"/> </a>
     <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/matlab.png"/> </a> 
     <a href="https://opencv.org/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/opencv.png"/> </a> 
